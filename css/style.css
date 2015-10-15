@@ -1,0 +1,33 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+header {
+  position: relative;
+}
+img {
+  width: 80%;
+  height: 250px;
+}
+h1 {
+  font-style: italic;
+  background: yellow;
+  position: absolute;
+  font-size: 3em;
+  right: 0;
+  bottom: 10%;
+}
+.col {
+  width: 47%;
+  float: left;
+}
+.col.first {
+  margin-right: 6%;
+}
+blockquote {
+  font-style: italic;
+  color: grey;
+  border-left: 20px solid yellow;
+  padding-left: 10px;
+  margin-left: 0;
+}
